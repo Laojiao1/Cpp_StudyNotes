@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f33e9fe-fbf9-447f-b10a-0ae066400f56": {
+      "ProjectGuid": "7f33e9fe-fbf9-447f-b10a-0ae066400f56",
+      "DisplayName": "通讯录管理系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
